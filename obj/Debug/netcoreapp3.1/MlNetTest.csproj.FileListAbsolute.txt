@@ -1,0 +1,13 @@
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.exe
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.deps.json
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.runtimeconfig.json
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.runtimeconfig.dev.json
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\MlNetTest.pdb
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.csprojAssemblyReference.cache
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.AssemblyInfoInputs.cache
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.AssemblyInfo.cs
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.csproj.CoreCompileInputs.cache
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.dll
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.pdb
+D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.genruntimeconfig.cache

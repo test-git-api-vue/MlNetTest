@@ -33,6 +33,7 @@ namespace MlNetTest
 
             IDataView data = mlContext.Data.LoadFromTextFile<XorData>("xor_data.txt", separatorChar: ',', hasHeader: true);
 
+            //Не получается применить разделение данных для бинарного алгоритма т.к. необходимо как минимум по 1му отрицательному и положительному
             /*
             DataOperationsCatalog.TrainTestData dataSplit = mlContext.Data.TrainTestSplit(data, testFraction: 0.25);
             IDataView trainData = dataSplit.TrainSet;

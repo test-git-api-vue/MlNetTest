@@ -73,7 +73,7 @@ namespace MlNetTest.Xor
             Console.WriteLine($"success = {success}, fail = {fail}");
         }
 
-        private static BinaryPredictionTransformer<LdSvmModelParameters> Train(IDataView trainData, LdSvmTrainer estimator)
+        private BinaryPredictionTransformer<LdSvmModelParameters> Train(IDataView trainData, LdSvmTrainer estimator)
         {
             // обучение
             var trainedModel = estimator.Fit(trainData);
@@ -81,7 +81,7 @@ namespace MlNetTest.Xor
             return trainedModel;
         }
 
-        private static LdSvmTrainer GetTrainer(MLContext mlContext)
+        private LdSvmTrainer GetTrainer(MLContext mlContext)
         {
             //никаких трансформаций не задаем т.к. входны данные уже вектор, от 0 до 1
             var ldsvmTrnOptions = new LdSvmTrainer.Options()
@@ -97,7 +97,7 @@ namespace MlNetTest.Xor
             return estimator;
         }
 
-        private static IDataView LoadData(MLContext mlContext)
+        private IDataView LoadData(MLContext mlContext)
         {
             return mlContext.Data.LoadFromTextFile<XorData>("xor/xor_data.txt", separatorChar: ',', hasHeader: false);
         }

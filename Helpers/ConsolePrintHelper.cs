@@ -24,5 +24,17 @@ namespace MlNetTest.Helpers
             Console.WriteLine($"Positive Recall: {metrics.PositiveRecall:F2}\n");*/
             Console.WriteLine(metrics.ConfusionMatrix.GetFormattedConfusionTable());
         }
+
+        public static void PrintMetrics(ClusteringMetrics metrics)
+        {
+            Console.WriteLine($"\nNormalized Mutual Information: " +
+                $"{metrics.NormalizedMutualInformation:F2}");
+
+            Console.WriteLine($"Average Distance: " +
+                $"{metrics.AverageDistance:F2}");
+
+            Console.WriteLine($"Davies Bouldin Index: " +
+                $"{metrics.DaviesBouldinIndex:F2}");
+        }
     }
 }

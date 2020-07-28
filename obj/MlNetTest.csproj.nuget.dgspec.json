@@ -43,9 +43,25 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
             "Microsoft.ML": {
               "target": "Package",
               "version": "[1.5.1, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
             }
           },
           "imports": [

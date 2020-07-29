@@ -32,13 +32,6 @@ D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Te
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
-D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\testhost.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\testhost.exe
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
@@ -114,4 +107,11 @@ D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualS
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Projects\OWN\NLML\MlNetTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 D:\Projects\OWN\NLML\MlNetTest\obj\Debug\netcoreapp3.1\MlNetTest.csproj.CoreCompileInputs.cache

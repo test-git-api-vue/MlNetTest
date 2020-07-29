@@ -8,11 +8,12 @@ using System.Linq;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MlNetTest.BitsSum;
+using MlNetTest.BitsSum.Classification;
 
-namespace MlNetTest.Xor
+namespace MlNetTest.BitsSum.Clustering
 {
     [TestClass]
-    public class BitsSumTests
+    public class BitsSumClasteringTests
     {
         [TestMethod]
         public void BitsSumTest()

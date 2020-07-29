@@ -17,6 +17,11 @@ namespace MlNetTest.BitsSum
 
         public float Weight { get; set; }
 
+        public BitSumData()
+        {
+
+        }
+
         public BitSumData(int x1, int x2, int x3, int x4)
         {
             Input = new float[] { x1, x2, x3, x4 };
